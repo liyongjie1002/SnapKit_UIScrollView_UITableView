@@ -1,0 +1,6 @@
+framework module Pods_SnapKit_UIScrollView_UITableView {
+  umbrella header "Pods-SnapKit_UIScrollView_UITableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
